@@ -1,13 +1,12 @@
 ﻿using System;
 
-namespace legoMinifigures
+namespace ConsoleApp1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var myHero = new Minifigure();
-            myHero.Kick();
+            Console.WriteLine("Hello World!");
         }
     }
 }

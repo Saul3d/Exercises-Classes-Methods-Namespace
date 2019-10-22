@@ -24,7 +24,6 @@ namespace Exercise2
 
             var herCar = new Cars();
             herCar.stop();
-
         }
     }
 }
