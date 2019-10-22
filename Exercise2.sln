@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "favoriteThings", "Exercise2\favoriteThings.csproj", "{E05F0BA1-B4E6-4346-9446-E2267F8CC6BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "legoMinifigures", "legoMinifigures\legoMinifigures.csproj", "{F8D63024-C743-474D-A210-34CAB3DE385E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "legoMinifigures", "legoMinifigures\legoMinifigures.csproj", "{F8D63024-C743-474D-A210-34CAB3DE385E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntaticSugar", "SyntaticSugar\SyntaticSugar.csproj", "{C79F973D-9D50-4722-8411-CB0C22810C92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F8D63024-C743-474D-A210-34CAB3DE385E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8D63024-C743-474D-A210-34CAB3DE385E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8D63024-C743-474D-A210-34CAB3DE385E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C79F973D-9D50-4722-8411-CB0C22810C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C79F973D-9D50-4722-8411-CB0C22810C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C79F973D-9D50-4722-8411-CB0C22810C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C79F973D-9D50-4722-8411-CB0C22810C92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
